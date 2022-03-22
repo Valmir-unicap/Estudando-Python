@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 print("Tabuada")
 numero= int(input("Digite um número, que deseja saber a tabuada: "))
-while numero<0:
+while numero<0: #validação de entrada de dados
     print("Não existe tabuada de números negativos")
     numero= int(input("Digite novamente um número: "))
 recebe=0
