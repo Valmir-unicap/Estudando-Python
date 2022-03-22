@@ -6,6 +6,6 @@ while numero<0: #validação de entrada de dados
     numero= int(input("Digite novamente um número: "))
 recebe=0
 while recebe<10: #so para quando recebe=10
-    recebe= recebe+1 #incrimento mais 1
+    recebe= recebe+1 #incremento mais 1
     resultado= numero*recebe
     print(numero,"*",recebe,"=",resultado)
