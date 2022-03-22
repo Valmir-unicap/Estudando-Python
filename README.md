@@ -1,4 +1,4 @@
-# *Estudo de Python*
+# *Estudo de Python 2*
 
 ### *Conteúdo aprendido em Python:* ###
 - Condicionais: if, elif & else
@@ -9,6 +9,7 @@
 - Tipos de variáveis
 - Operador de módulo (resto da divisão e quociente)
 - Funções matemáticas — math
+- Uso de string
 
 ### *Materias auxiliar* ###
 
