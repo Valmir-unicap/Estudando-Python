@@ -18,6 +18,7 @@
 - Link de auxílio: http://curso.grupysanca.com.br/pt/latest/controle.html 
 - Link de auxílio: https://www.inf.pucrs.br/pinho/PCB/ComandosDeDecisao/Decisao.htm 
 - Link de auxílio: https://docs.python.org/pt-br/3/library/math.html#module-math
+- Link de auxílio: https://panda.ime.usp.br/pensepy/static/pensepy/index.html
 
 ### *Palavras reservadas em Python:* ###
 ![palavras reservadas](https://user-images.githubusercontent.com/61609240/158027932-84e905f6-cca9-48c4-8834-168904451eaa.png)
