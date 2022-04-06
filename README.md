@@ -10,6 +10,7 @@
 - Operador de módulo (resto da divisão e quociente)
 - Funções matemáticas — math
 - Uso de string
+- Funções
 
 ### *Materias auxiliar* ###
 
