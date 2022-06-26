@@ -11,6 +11,7 @@
 - Funções matemáticas — math
 - Uso de string
 - Funções
+- Métodos
 
 ### *Materias auxiliar* ###
 
