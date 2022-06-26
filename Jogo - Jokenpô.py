@@ -46,8 +46,8 @@ def jogodificil():
     print("1- Papel")
     print("2- Tesoura")
     print("3- Pedra")
-    print("4- Largato")
-    print("5- Spoke")
+    print("4- Lagarto")
+    print("5- Spock")
     print("")
 
 
@@ -98,9 +98,9 @@ def analisarComputador(computador):
     elif computador == 3:
         print("Computador escolheu pedra")
     elif computador == 4:
-        print("Computador escolheu Largato")
+        print("Computador escolheu Lagarto")
     elif computador == 5:
-        print("Computador escolheu Spok")
+        print("Computador escolheu Spock")
 
 
 # main
