@@ -12,6 +12,7 @@
 - Uso de string
 - Funções
 - Métodos
+- Biblioteca Random
 
 ### *Materias auxiliar* ###
 
