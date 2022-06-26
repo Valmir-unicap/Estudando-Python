@@ -1,4 +1,4 @@
-# *Estudo de Python 2*
+# *Estudo de Python*
 
 ### *Conteúdo aprendido em Python:* ###
 - Condicionais: if, elif & else
