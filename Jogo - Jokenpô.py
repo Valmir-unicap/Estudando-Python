@@ -9,7 +9,7 @@ def menu():
 
 def jogotradicional():
     print("")
-    print("1- papel")
+    print("1- Papel")
     print("2- Tesoura")
     print("3- Pedra")
     print("")
